@@ -14,23 +14,23 @@ featuredLinks:
   popular:
     - /rest/using-the-rest-api/rate-limits-for-the-rest-api
     - /rest/using-the-rest-api/troubleshooting-the-rest-api
-    - /rest/guides/scripting-with-the-rest-api-and-javascript
-    - /rest/authentication/keeping-your-api-credentials-secure
-  guideCards:
-    - /rest/guides/delivering-deployments
-    - /rest/guides/using-the-rest-api-to-interact-with-checks
-    - /rest/using-the-rest-api/using-pagination-in-the-rest-api
-changelog:
-  label: 'api, apis'
-layout: product-landing
-redirect_from:
-  - /v3
-  - /rest/reference
-  - /rest/overview
-  - /developers/overview
-versions:
-  fpt: '*'
-  ghes: '*'
+ -Nghỉ ngơi/hướng dẫn/kịch bản-với-the-rest-api-and-javascript 
+ - /rest/authentication/keeping-your-api-credentials-secure 
+ Hướng dẫn sử dụng: 
+ -   nghỉ ngơi/hướng dẫn viên/giao hàng-triển khai - /rest/guides/delivering-deployments 
+ -nghỉ ngơi/hướng dẫn/sử dụng-the-rest-api-to-tương tác-với-kiểm tra - /rest/guides/using-the-rest-api-to-interact-với-kiểm tra
+ - / nghỉ ngơi/sử dụng-the-rest-api/sử dụng-pagination-in-the-rest-api - / nghỉ ngơi/sử dụng-the-rest-api/using-pagination-in-the-rest-api
+Changelog:
+ nhãn: 'api, apis' 
+Bố cục: Product-Landing
+Redirect_from:
+  - V3
+  - / nghỉ ngơi/tham khảo
+  - / Nghỉ ngơi/Tổng quan
+  - / Developers/Overview
+Phiên bản:
+ Câu trả lời: '*' 
+    ghes: '  *'
   ghec: '*'
 children:
   - /quickstart
